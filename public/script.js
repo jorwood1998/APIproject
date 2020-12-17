@@ -1,5 +1,5 @@
 const pokedex = document.getElementById('pokedex');
-const pokemonamount = 102;
+const pokemonamount = 150;
 const colors = {
 	fire: '#FDDFDF',
 	grass: '#DEFDE0',
